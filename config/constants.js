@@ -1,0 +1,15 @@
+/**
+ * Created by haywire on 30/09/17.
+ */
+
+module.exports = {
+
+	AUTH_TOKEN_EXPIRY_HOURS: 168, // 7 days
+
+	ATTRIBUTE_STATUS:{
+		'ACTIVE':0,
+		'DISABLED':1
+	},
+	PLAYLISTS_PAGINATION_PER_PAGE_LIMIT: 50,
+	VIDEOS_PAGINATION_PER_PAGE_LIMIT: 50,
+};
